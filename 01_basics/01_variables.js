@@ -1,3 +1,4 @@
+//file name first 2 characters then press tab
 const accountId = 144553
 let accountEmail = "krushna@gmail.com"
 var accountPassword = "12345"
